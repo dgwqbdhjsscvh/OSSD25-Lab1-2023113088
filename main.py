@@ -12,4 +12,4 @@ if __name__ == '__main__':
     print(f'20 + 30 = {result}')
     print("2023113088")
     print("刘文轩")
-
+    print("2023113088刘文轩")
