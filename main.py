@@ -8,5 +8,5 @@ def calculate_sum(a, b):
 
 if __name__ == '__main__':
     main()
-    result = calculate_sum(10, 20)
-    print(f'10 + 20 = {result}')
+    result = calculate_sum(20, 40)
+    print(f'20 + 40 = {result}')
